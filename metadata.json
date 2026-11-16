@@ -1,0 +1,6 @@
+{
+  "name": "ZooNotes",
+  "description": "B.Sc. Zoology undergraduate study companion organized by Semesters 1 to 6 with structured unit notes, labeled pinch-to-zoom diagrams, reference textbooks, PYQs, chapter quizzes, and offline bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

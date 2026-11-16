@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emerald_primary">#FF0B6E4F</color>
+    <color name="emerald_dark">#FF064E38</color>
+    <color name="emerald_light">#FFD1F2E4</color>
+    <color name="academic_bg">#FFF7FAF8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

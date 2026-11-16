@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZooNotes</string>
+    <string name="nav_curriculum">Semesters</string>
+    <string name="nav_bookmarks">Bookmarks</string>
+    <string name="search_placeholder">Search topics, papers, or definitions…</string>
+    <string name="tab_study_notes">Study Notes</string>
+    <string name="tab_diagrams">Diagrams</string>
+    <string name="tab_reference_books">Books</string>
+    <string name="tab_pyqs_quizzes">PYQs &amp; Quiz</string>
+    <string name="bookmark_save">Save for offline revision</string>
+    <string name="bookmark_remove">Remove bookmark</string>
+    <string name="empty_bookmarks_title">No Offline Bookmarks Yet</string>
+    <string name="empty_bookmarks_subtitle">Tap the bookmark icon on any unit note, diagram, or reference textbook to save it here for quick offline revision.</string>
+    <string name="empty_search_title">No Matching Topics</string>
+    <string name="empty_search_subtitle">Try searching for Phylum Arthropoda, Krebs Cycle, Nephrons, Kotpal, or Operon.</string>
+</resources>
